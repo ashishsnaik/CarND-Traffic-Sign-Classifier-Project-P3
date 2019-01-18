@@ -28,7 +28,7 @@ In this project, my goal is to build a Convolutional Neural Network (CNN) model 
 ---
 
 The data set used is the German Traffic Sign Dataset.
-#### [Link to Dataset](http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset) used for the project. This is a pickled dataset with images resized to 32x32.
+#### [Link to Dataset](https://s3-us-west-1.amazonaws.com/udacity-selfdrivingcar/traffic-signs-data.zip) used for the project. This is a pickled dataset with images resized to 32x32.
 #### [Link to Original Dataset](http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset)
 
 ## Sample Traffic Sign Images
