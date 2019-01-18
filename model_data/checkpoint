@@ -1,0 +1,2 @@
+model_checkpoint_path: "signnet3_refined_ep25_kp50"
+all_model_checkpoint_paths: "signnet3_refined_ep25_kp50"
