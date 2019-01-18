@@ -1,4 +1,4 @@
-# Traffic Sign Recognition Program using Convolutional Neural Network (CNN) in TensorFlow
+# Traffic Sign Recognition Program using Convolutional Neural Network (ConvNet) in TensorFlow
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
 [//]: # (Image References)
@@ -6,7 +6,7 @@
 
 ## Overview
 ---
-In this project, my goal is to build a Convolutional Neural Network (CNN) model in TensorFlow to classify Traffic Sign images. The project uses the German Traffic Sign Dataset to train, validate, and test the model. Finally, the project also attempts to classify random German Traffic Sign images found on the web.
+In this project, my goal is to build a Convolutional Neural Network (ConvNet) model in TensorFlow to classify Traffic Sign images. The project uses the German Traffic Sign Dataset to train, validate, and test the model. Finally, the project also attempts to classify random German Traffic Sign images found on the web.
 
 #### **Project Write Up:** [P3_Traffic_Sign_Classifier_writeup.md](./P3_Traffic_Sign_Classifier_writeup.md)
 #### **Project Code (ipynb):** [Traffic_Sign_Classifier.ipynb](./Traffic_Sign_Classifier.ipynb)

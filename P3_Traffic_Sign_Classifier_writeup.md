@@ -1,6 +1,6 @@
 # **Traffic Sign Recognition** 
 
-## Traffic Sign Recognition Program using Convolutional Neural Network (CNN) in TensorFlow
+## Traffic Sign Recognition Program using Convolutional Neural Network (ConvNet) in TensorFlow
 ---
 
 **The goals / steps of this project are the following:**
@@ -36,7 +36,7 @@
 
 You're reading it! 
 
-Here are links to my [project code]('./Traffic_Sign_Classifier.ipynb') and the code's [HTML output]('./Traffic_Sign_Classifier.html')
+Here are links to my [project code](Traffic_Sign_Classifier.ipynb) and the code's [HTML output](Traffic_Sign_Classifier.html)
 
 ### Data Set Summary & Exploration
 
